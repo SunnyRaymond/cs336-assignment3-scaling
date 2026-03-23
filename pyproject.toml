@@ -5,6 +5,8 @@ description = "CS 336 Assignment 3: Scaling Laws"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.5",
     "requests>=2.32.3",
     "torch>=2.7.0",
 ]
