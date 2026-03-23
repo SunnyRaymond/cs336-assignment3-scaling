@@ -1,0 +1,22 @@
+{
+  "model_size_fit": {
+    "alpha": 1.1634106364198407,
+    "exponent": 0.46868266774370226
+  },
+  "dataset_size_fit": {
+    "alpha": 0.1432569562708459,
+    "exponent": 0.5313173322563014
+  },
+  "predictions": [
+    {
+      "compute_budget": 1e+23,
+      "predicted_n_opt": 70054233904.7128,
+      "predicted_d_opt": 237910911842.05237
+    },
+    {
+      "compute_budget": 1e+24,
+      "predicted_n_opt": 206118539185.03958,
+      "predicted_d_opt": 808596195789.2859
+    }
+  ]
+}

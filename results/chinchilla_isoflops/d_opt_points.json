@@ -1,0 +1,38 @@
+[
+  {
+    "compute_budget": 6e+18,
+    "d_opt": 1312175089.1277542
+  },
+  {
+    "compute_budget": 1e+19,
+    "d_opt": 2066164157.4439783
+  },
+  {
+    "compute_budget": 3e+19,
+    "d_opt": 3253402961.5703735
+  },
+  {
+    "compute_budget": 6e+19,
+    "d_opt": 5122841182.472726
+  },
+  {
+    "compute_budget": 1e+20,
+    "d_opt": 5122841182.472726
+  },
+  {
+    "compute_budget": 3e+20,
+    "d_opt": 8469069901.558091
+  },
+  {
+    "compute_budget": 6e+20,
+    "d_opt": 14345028996.903902
+  },
+  {
+    "compute_budget": 1e+21,
+    "d_opt": 24297810658.27429
+  },
+  {
+    "compute_budget": 3e+21,
+    "d_opt": 41155971378.46459
+  }
+]

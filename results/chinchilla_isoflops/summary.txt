@@ -1,0 +1,2 @@
+Predicted compute-optimal model sizes: N_opt(1e+23) = 7.005423e+10 parameters, N_opt(1e+24) = 2.061185e+11 parameters.
+Predicted compute-optimal dataset sizes: D_opt(1e+23) = 2.379109e+11 tokens, D_opt(1e+24) = 8.085962e+11 tokens.

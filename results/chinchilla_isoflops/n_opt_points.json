@@ -1,0 +1,38 @@
+[
+  {
+    "compute_budget": 6e+18,
+    "n_opt": 762093419.0
+  },
+  {
+    "compute_budget": 1e+19,
+    "n_opt": 806647749.0
+  },
+  {
+    "compute_budget": 3e+19,
+    "n_opt": 1536852354.0
+  },
+  {
+    "compute_budget": 6e+19,
+    "n_opt": 1952041776.0
+  },
+  {
+    "compute_budget": 1e+20,
+    "n_opt": 3253402960.0
+  },
+  {
+    "compute_budget": 3e+20,
+    "n_opt": 5903836027.0
+  },
+  {
+    "compute_budget": 6e+20,
+    "n_opt": 6971055968.0
+  },
+  {
+    "compute_budget": 1e+21,
+    "n_opt": 6859328563.0
+  },
+  {
+    "compute_budget": 3e+21,
+    "n_opt": 12148905329.0
+  }
+]
